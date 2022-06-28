@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@polkadot/api": "^8.10.1"
+    "@polkadot/api": "^8.10.1",
+    "@polkadot/types": "^8.10.1"
   }
 }
